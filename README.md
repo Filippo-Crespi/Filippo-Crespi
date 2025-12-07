@@ -1,6 +1,31 @@
 # 💫 About Me:
-### Hey! I'm Filippo — a 12th-grade student from Italy (5th year of high school) with a passion for web development.
-#### 🚀 I'm currently working on: ShareTunes, a social platform where users can share the music they love. I’m building it with Vue, Node.js, and Socket.io, focusing on real-time features and a clean UX.<br><br>🤝 I'm looking to collaborate on: open source or personal projects that involve Vue, Nuxt, TypeScript, or anything full-stack and frontend-related.<br><br>🧩 I'm looking for help with: Docker and strategies to scale full-stack applications effectively.<br><br>📘 I'm currently learning: advanced TypeScript features, backend design patterns in Node.js, and DevOps fundamentals.<br><br>💬 Ask me about: Vue, Nuxt, TypeScript, or modern web design practices — happy to share what I know and learn from others too!<br><br>🎶 Something fun about me: I’m combining my love for music and code in a project that brings both worlds together — and I’m learning a ton along the way!<br><br>💕 Pronouns: He/Him
+### Filippo Crespi — Computer Science Student @ Università degli Studi di Milano (UniMi)
+
+#### 🚀 Current Project
+**ShareTunes** — Real-time social music sharing platform built with Vue 3, Node.js, Socket.io. Focus: scalable WebSocket architecture & responsive UX.
+
+#### 🤝 Open to Collaborate
+- Vue 3 / Nuxt 4 / TypeScript full-stack projects
+- Open source contributions (frontend/backend)
+- Production-grade web applications
+
+#### 🧩 Seeking Expertise
+- Docker containerization & orchestration
+- Horizontal scaling strategies for full-stack apps
+- Microservices architecture patterns
+
+#### 📘 Currently Learning
+- Advanced TypeScript (generics, mapped types, infer)
+- Node.js design patterns (MVC, CQRS, Event Sourcing)
+- DevOps fundamentals (CI/CD, monitoring, IaC)
+
+#### 💬 Expertise
+Vue 3 ecosystem • Nuxt • TypeScript • Modern web architectures • Real-time applications
+
+#### 🎯 Mission
+Building scalable web applications that deliver exceptional user experiences.
+
+💕 Pronouns: He/Him
 
 
 ## 🌐 Socials:
