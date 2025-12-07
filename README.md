@@ -27,9 +27,10 @@ Building scalable web applications that deliver exceptional user experiences.
 
 💕 Pronouns: He/Him
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@pippoxfake) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_pippoo.o_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/pippoxfake) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/pippoxfake) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/pippooo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:filippo.crespi@outlook.it) 
+
+---
 
 # 💻 Tech Stack
 ### Frontend
@@ -51,6 +52,7 @@ Building scalable web applications that deliver exceptional user experiences.
 ### Tools & Workflow
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Filippo-Crespi&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -64,10 +66,11 @@ Building scalable web applications that deliver exceptional user experiences.
 ![](https://github-contributor-stats.vercel.app/api?username=Filippo-Crespi&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Filippo-Crespi&icon=2&color=9)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pippoo) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@filippocrespi306) 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pippoo) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@filippocrespi306) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
